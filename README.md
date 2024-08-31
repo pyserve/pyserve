@@ -12,8 +12,8 @@ I am a passionate AI and Machine Learning professional with a solid background i
 
 ## 💼 Professional Experience
 
-### IT & Marketing Support | Weaver Eco Home, Toronto *Jan 2024 - Present*
-### Software Developer | First Paddle Pvt. Ltd., Nepal *Oct 2020 - Aug 2022*
+- IT & Marketing Support | Weaver Eco Home, Toronto *Jan 2024 - Present*
+- Software Developer | First Paddle Pvt. Ltd., Nepal *Oct 2020 - Aug 2022*
 
 ## 🛠️ Technical Skills
 
@@ -32,16 +32,6 @@ I am a passionate AI and Machine Learning professional with a solid background i
 
 - **B.E. in Electronics and Communication**  
   Tribhuvan University, Kathmandu, Nepal | Graduated 2019
-
-## 🌟 Key Strengths
-
-- Self-motivated and dedicated continuous learner
-- Strong analytical and problem-solving abilities
-- Effective collaborator and team player
-
-## 📊 GitHub Stats
-
-![Anil's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect!
 
