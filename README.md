@@ -8,31 +8,30 @@
 
 ## 🚀 About Me
 
-Passionate AI and Machine Learning professional with a strong background in Software Development. Currently pursuing a Postgraduate Certification in AI and ML at Lambton College, Toronto. Specialized in Python, React, and React Native, with a focus on innovative solutions and continuous learning.
+I am a passionate AI and Machine Learning professional with a solid background in Software Development. Currently pursuing a Postgraduate Certification in AI and ML at Lambton College, Toronto. I specialize in Python, React, and React Native, and I am committed to delivering innovative solutions through continuous learning and collaboration.
 
 ## 💼 Professional Experience
 
 ### IT & Marketing Support | Weaver Eco Home, Toronto
 *Jan 2024 - Present*
-- Optimized ZOHO CRM using Deluge, JavaScript, and Python
-- Integrated APIs and automated workflows
-- Developed AI-enhanced data analysis and engagement tools
 
 ### Software Developer | First Paddle Pvt. Ltd., Nepal
 *Oct 2020 - Aug 2022*
-- Implemented back-end logic with Python and ML models
-- Developed cross-platform mobile apps using React and React Native
-- Conducted AI-driven performance optimization and security enhancements
 
 ## 🛠️ Technical Skills
 
-| Category | Skills |
-|----------|--------|
-| Languages | Python, C++, SQL |
-| Frameworks & Tools | Django, TensorFlow, Scikit-Learn, OpenCV, PySpark |
-| Web & Mobile | React, React Native, HTML5, CSS3, JavaScript |
-| CRM Systems | ZOHO CRM, ZOHO ONE |
-| Data Analysis | Pandas, Matplotlib, Seaborn, PowerBI |
+### Programming Languages
+- **Python**, **C++**, **SQL**
+
+### Frameworks & Libraries
+- **Web Development:** Django, React, React Native  
+- **Machine Learning:** TensorFlow, Scikit-Learn, OpenCV, PySpark
+
+### Data Analysis & Visualization
+- **Tools:** Pandas, Matplotlib, Seaborn, Power BI
+
+### CRM Systems
+- **Platforms:** ZOHO CRM, ZOHO ONE
 
 ## 🎓 Education
 
@@ -44,8 +43,8 @@ Passionate AI and Machine Learning professional with a strong background in Soft
 
 ## 🌟 Key Strengths
 
-- Self-motivated continuous learner
-- Strong problem-solving abilities
+- Self-motivated and dedicated continuous learner
+- Strong analytical and problem-solving abilities
 - Effective collaborator and team player
 
 ## 📊 GitHub Stats
