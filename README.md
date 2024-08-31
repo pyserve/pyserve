@@ -1,6 +1,6 @@
 # Anil Dhakal
 
-## 👨‍💻 AI & Machine Learning Professional | Software Developer
+### 👨‍💻 AI & Machine Learning | Electronics Engineer | Software Developer
 
 📍 Toronto, Ontario    📧 aneildhakal21@gmail.com    🔗 [LinkedIn](#) | [GitHub](#)
 
