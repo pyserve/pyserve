@@ -20,7 +20,7 @@ I am a passionate AI and Machine Learning professional with a solid background i
 | Data Analysis & Visualization | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
 
 ## 🎓 Education
-- **Artificial Intelligence and Machine Learning**  ( *Lambton College, Toronto | May 2023 - Present*)
+- **Post Graduate in Artificial Intelligence and Machine Learning**  ( *Lambton College, Toronto | May 2023 - Present*)
 - **B.E. in Electronics and Communication**  ( *Tribhuvan University, Kathmandu, Nepal | Graduated 2019* )
 
 ## 📫 Let's Connect!
