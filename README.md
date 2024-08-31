@@ -2,18 +2,16 @@
 
 ## 👨‍💻 AI & Machine Learning Professional | Software Developer
 
-📍 Toronto, Ontario  
-📧 aneildhakal21@gmail.com  
-🔗 [LinkedIn](#) | [GitHub](#)
+📍 Toronto, Ontario    📧 aneildhakal21@gmail.com    🔗 [LinkedIn](#) | [GitHub](#)
 
 ## 🚀 About Me
 
-I am a passionate AI and Machine Learning professional with a solid background in Software Development. Currently pursuing a Postgraduate Certification in AI and ML at Lambton College, Toronto. I specialize in Python, React, and React Native, and I am committed to delivering innovative solutions through continuous learning and collaboration.
+I am a passionate AI and Machine Learning professional with a solid background in Software Development. Currently pursuing a Postgraduate Certification in AI and ML at Lambton College, Toronto. I specialize in Python, and JavaScript, and I am committed to delivering innovative solutions through continuous learning and collaboration.
 
 ## 💼 Professional Experience
 
-- IT & Marketing Support | Weaver Eco Home, Toronto *Jan 2024 - Present*
-- Software Developer | First Paddle Pvt. Ltd., Nepal *Oct 2020 - Aug 2022*
+- IT & Marketing Support | Weaver Eco Home, Toronto ( *Jan 2024 - Present* )
+- Software Developer | First Paddle Pvt. Ltd., Nepal ( *Oct 2020 - Aug 2022* )
 
 ## 🛠️ Technical Skills
 
