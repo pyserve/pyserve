@@ -7,7 +7,8 @@
 I am a passionate AI and Machine Learning professional with a solid background in Software Development. Currently pursuing a Postgraduate Certification in AI and ML at Lambton College, Toronto. I specialize in Python, and JavaScript, and I am committed to delivering innovative solutions through continuous learning and collaboration.
 
 ## 💼 Professional Experience
-- IT & Marketing Support | Weaver Eco Home, Toronto ( *Jan 2024 - Present* )
+- Business Intelligence Analyst and IT Support | Weaver Eco Home, Toronto ( *Sep 2024 - Present* )
+- IT & Marketing Support | Weaver Eco Home, Toronto ( *Jan 2024 - August 2024* )
 - Software Developer | First Paddle Pvt. Ltd., Nepal ( *Oct 2020 - Aug 2022* )
 
 ## 🛠️ Technical Skills
