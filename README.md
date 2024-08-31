@@ -26,5 +26,5 @@ I am a passionate AI and Machine Learning professional with a solid background i
 ## 📫 Let's Connect!
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://www.linkedin.com/in/anil-dhakal-380507176/)](your-linkedin-url)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aneildhakal21@gmail.com)
