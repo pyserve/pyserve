@@ -25,11 +25,9 @@ I am a passionate AI and Machine Learning professional with a solid background i
 
 ## 🎓 Education
 
-- **Artificial Intelligence and Machine Learning**  
-  Lambton College, Toronto | May 2023 - Present
+- **Artificial Intelligence and Machine Learning**  ( *Lambton College, Toronto | May 2023 - Present*)
 
-- **B.E. in Electronics and Communication**  
-  Tribhuvan University, Kathmandu, Nepal | Graduated 2019
+- **B.E. in Electronics and Communication**  ( *Tribhuvan University, Kathmandu, Nepal | Graduated 2019* )
 
 ## 📫 Let's Connect!
 
