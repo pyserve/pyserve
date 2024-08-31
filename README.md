@@ -1,18 +1,16 @@
-# Anil Dhakal - 👨‍💻 AI & Machine Learning | Electronics Engineer | Software Developer
+# Anil Dhakal 
 
+👨‍💻 AI & Machine Learning | Electronics Engineer | Software Developer
 📍 Toronto, Ontario    📧 aneildhakal21@gmail.com    🔗 [LinkedIn](#) | [GitHub](#)
 
 ## 🚀 About Me
-
 I am a passionate AI and Machine Learning professional with a solid background in Software Development. Currently pursuing a Postgraduate Certification in AI and ML at Lambton College, Toronto. I specialize in Python, and JavaScript, and I am committed to delivering innovative solutions through continuous learning and collaboration.
 
 ## 💼 Professional Experience
-
 - IT & Marketing Support | Weaver Eco Home, Toronto ( *Jan 2024 - Present* )
 - Software Developer | First Paddle Pvt. Ltd., Nepal ( *Oct 2020 - Aug 2022* )
 
 ## 🛠️ Technical Skills
-
 | Category | Skills |
 |----------|--------|
 | Programming Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
@@ -22,13 +20,10 @@ I am a passionate AI and Machine Learning professional with a solid background i
 | Data Analysis & Visualization | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
 
 ## 🎓 Education
-
 - **Artificial Intelligence and Machine Learning**  ( *Lambton College, Toronto | May 2023 - Present*)
-
 - **B.E. in Electronics and Communication**  ( *Tribhuvan University, Kathmandu, Nepal | Graduated 2019* )
 
 ## 📫 Let's Connect!
-
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
