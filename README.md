@@ -12,26 +12,18 @@ I am a passionate AI and Machine Learning professional with a solid background i
 
 ## 💼 Professional Experience
 
-### IT & Marketing Support | Weaver Eco Home, Toronto
-*Jan 2024 - Present*
-
-### Software Developer | First Paddle Pvt. Ltd., Nepal
-*Oct 2020 - Aug 2022*
+### IT & Marketing Support | Weaver Eco Home, Toronto *Jan 2024 - Present*
+### Software Developer | First Paddle Pvt. Ltd., Nepal *Oct 2020 - Aug 2022*
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
-- **Python**, **C++**, **SQL**
-
-### Frameworks & Libraries
-- **Web Development:** Django, React, React Native  
-- **Machine Learning:** TensorFlow, Scikit-Learn, OpenCV, PySpark
-
-### Data Analysis & Visualization
-- **Tools:** Pandas, Matplotlib, Seaborn, Power BI
-
-### CRM Systems
-- **Platforms:** ZOHO CRM, ZOHO ONE
+| Category | Skills |
+|----------|--------|
+| Programming Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| Web & Mobile Development | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| Frameworks & Libraries | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+| Tools & Platforms | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![ZOHO CRM](https://img.shields.io/badge/ZOHO_CRM-E42527?style=for-the-badge&logo=zoho&logoColor=white) |
+| Data Analysis & Visualization | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
 
 ## 🎓 Education
 
