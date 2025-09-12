@@ -4,7 +4,7 @@
 📍 Toronto, Ontario    📧 aneildhakal21@gmail.com    🔗 [LinkedIn](https://www.linkedin.com/in/anil-dhakal-380507176/) | [GitHub](https://github.com/pyserve/)
 
 ## 🚀 About Me
-I am a passionate AI and Machine Learning professional with a solid background in Software Development. Currently pursuing a Postgraduate Certification in AI and ML at Lambton College, Toronto.
+I am a passionate AI and Machine Learning professional with a solid background in Software Development. Currently completed a Postgraduate Certification in AI and ML at Lambton College, Toronto.
 
 ## 💼 Professional Experience
 - **Business Intelligence Analyst and IT Support** | Weaver Eco Home, Toronto (*Sep 2024 - Present*)
